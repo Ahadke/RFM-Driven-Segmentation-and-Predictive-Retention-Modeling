@@ -123,6 +123,7 @@ This analysis can directly support:
 ---
 
 ## Project Structure
+```
 ├── data/
 │   └── online_retail_II.csv
 ├── notebooks/
@@ -139,3 +140,4 @@ This analysis can directly support:
 │   └── rfm_with_clusters.csv
 ├── README.md
 └── requirements.txt
+```
