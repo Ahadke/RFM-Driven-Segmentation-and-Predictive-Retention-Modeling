@@ -123,16 +123,14 @@ This analysis can directly support:
 ---
 
 ## Project Structure
-├── data/
-│ └── online_retail_II.xlsx
-├── outputs/
-│ ├── clean_retail_data.csv
-│ ├── rfm_table.csv
-│ └── rfm_with_clusters.csv
-├── notebooks/
-│ ├── 01_Data_Loading.ipynb
-│ ├── 02_EDA.ipynb
-│ ├── 03_Feature_engineering.ipynb
-│ ├── 04_Segmentation.ipynb
-│ ├── 05_Retention_Modeling.ipynb
-│ └── 06_Visualizations.ipynb
+├── 01-Data-Loading.ipynb
+├── 02-EDA.ipynb
+├── 03-Feature-Engineering.ipynb
+├── 04-Segmentation.ipynb
+├── 05-Retention-Modeling.ipynb
+├── 06-Visualizations.ipynb
+├── 07-Conclusions.ipynb
+├── clean_retail_data.csv
+├── online_retail_II.csv
+├── rfm_table.csv
+└── rfm_with_clusters.csv
